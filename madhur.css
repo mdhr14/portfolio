@@ -1,0 +1,32 @@
+
+table{
+	margin-right : 10%;
+	margin-left: 10%; 
+}
+img{
+	height: 400px;
+	width: 400px;
+	border-radius: 5%;
+}
+body{
+	background: url("https://img.freepik.com/free-vector/blue-abstract-acrylic-brush-stroke-textured-background_53876-86373.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .text{
+ 	font-style: arial;
+ 	font-size: 20px;
+ }
+
+ .heading{
+ 	font-size: 40px;
+ 	color:red;
+ 	font-style: arial;
+ }
+ .madhur{
+ 	font-size: 25px;
+ 	color:green;
+ }
+ td{
+ 	padding-top:0%;
+ }
